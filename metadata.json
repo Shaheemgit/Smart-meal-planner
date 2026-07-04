@@ -1,0 +1,6 @@
+{
+  "name": "Smart Meal Planner & Waste Reducer",
+  "description": "An eco-friendly, modern mobile-first meal planner that helps reduce kitchen waste by scanning fridge contents, highlighting expiring ingredients, and generating creative, zero-waste recipes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
